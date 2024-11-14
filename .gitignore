@@ -2,3 +2,6 @@ CMakeFiles/
 Makefile
 *.cmake
 *.out
+*.txt
+
+!CMakeLists.txt
